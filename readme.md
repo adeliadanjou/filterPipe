@@ -1,3 +1,5 @@
+INSTRUCCIONES:
+
 1) haz un ng g pipe filter
 2) pega el contenido de filterPipe.ts en el mismo archivo (o sustituye)
 3) ve al html en cuestión donde quieras usar el pipe de filtrado
